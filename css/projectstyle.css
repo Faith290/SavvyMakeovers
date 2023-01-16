@@ -33,7 +33,7 @@ header{
 .overlay2{margin-top:50; margin-bottom: 50;text-align: center; background-color: #fff; opacity: .7; padding: 20px;z-index: 5;}
 
 body{background-image: url(../images/purpleflowerbackground.jpg) }
-}
+
 @media only screen and (max-width:760px) (min-width:480px)
 {
   .desktop-head{
