@@ -2,6 +2,11 @@
 html{
   (display:flex;)
   (justify-content: center;)}
+@media only screen (max-width:760px) and (min-width:480px)
+  .about2{
+    display:flex;
+    flex-direction: column;
+}
 
 header{
   font-size:3rem;
