@@ -4,8 +4,7 @@ html{
   (justify-content: center;)}
   .about2{
     display:flex;
-    flex-direction: column;
-}
+  }
 
 header{
   font-size:3rem;
